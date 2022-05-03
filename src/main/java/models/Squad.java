@@ -1,8 +1,5 @@
 package models;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Squad {
     private String maxSize;
     private String squadName;
@@ -45,10 +42,5 @@ public class Squad {
 
     public void setSquadCause(String squadCause) {
         this.squadCause = squadCause;
-    }
-
-    public void addHero(Hero hero){
-
-
     }
 }
