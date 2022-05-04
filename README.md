@@ -45,7 +45,7 @@ To access this project on your local files, you can clone it using these steps
 
 ### Live Site
 
-[Live Link](https://mutheulinet.github.io/Quotes_App/)
+[Live Link](https://hero-squad-power.herokuapp.com/)
 
 ### License
 
